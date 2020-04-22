@@ -1,0 +1,13 @@
+@mixin background-image($position, $size, $height){
+    background-position: $position;
+    background-repeat: no-repeat;
+    background-size: $size !important;
+    min-height: $height;
+}
+
+@mixin display( $display, $directon, $content, $height ){
+    display: $display;
+    flex-direction: $directon;
+    justify-content: $content;
+    height:  $height;
+}

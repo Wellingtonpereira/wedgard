@@ -1,0 +1,60 @@
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 576px) {
+    .slide{
+        .box-text{
+            padding-bottom: 80px;
+        }
+    }
+
+    .phases{
+        h4{
+            font-size: 1.5rem !important;
+        }
+    } 
+}
+
+// Medium devices (tablets, 768px and up)
+@media (max-width: 768px) { 
+    .menu{
+        .navbar-nav{
+            background: $default;
+            border-radius: 12px; 
+
+            .nav-item{
+                .nav-link{
+                    color: $primary !important;  
+                    font-weight: bold;
+
+                    &:hover{
+                        color: $default !important;
+                    }
+                } 
+            }
+        }
+    }
+    .phases{
+        h4{
+            font-size: 1.0rem;
+        }
+    }
+
+    .about{
+        .persona{
+            .text{
+                text-align: center;
+            }
+        }
+    }
+    
+    .services {
+        .border-left {
+            border-left: 0px solid #960202 !important;
+        }
+    }
+  }
+
+// Large devices (desktops, 992px and up)
+@media (max-width: 992px) {  }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (max-width: 1200px) {  }

@@ -1,0 +1,7 @@
+@mixin background-image( $img, $type, $size){
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: $type !important;
+    height: $size;
+    background-image: url( $path + $img);
+}

@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/style.css": "/css/style.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css",
+    "/css/hover.min.css": "/css/hover.min.css",
+    "/css/owl.carousel.min.css": "/css/owl.carousel.min.css",
+    "/css/animate.min.css": "/css/animate.min.css",
+    "/js/jquery.js": "/js/jquery.js",
+    "/js/popper.min.js": "/js/popper.min.js",
+    "/js/chart.min.js": "/js/chart.min.js",
+    "/js/owl.carousel.min.js": "/js/owl.carousel.min.js",
+    "/js/mixitup.min.js": "/js/mixitup.min.js",
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js"
+}
